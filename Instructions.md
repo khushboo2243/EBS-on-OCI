@@ -1,7 +1,7 @@
 
 ## Changing configurations for Instance Pools
 
-If you enable Autoscaling configuration using the application, then by default an Instance Pool is created based on the Instance Configuration of App VMs. The Instance Pool by default has Target Instance Count of 2. 
+If you enable Autoscaling configuration using the application, then by default an Instance Pool is created based on the Instance Configuration of App VMs. The Instance Pool by default has Target Instance Count of 1. 
 In order to make any changes to the Instance Pool which includes terminating it, refer to the following steps:
 
 - Open the navigation menu. Under Core Infrastructure, go to Compute and click Instance Pools.
